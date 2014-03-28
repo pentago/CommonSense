@@ -1468,7 +1468,7 @@
 		<key>colorSpaceName</key>
 		<string>sRGB</string>
 		<key>semanticClass</key>
-		<string>theme.dark.qentaur</string>
+		<string>theme.dark.CommonSense</string>
 		<key>author</key>
 		<string>Pentago</string>
 		<key>comment</key>
