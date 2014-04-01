@@ -1,6 +1,6 @@
 # CommonSense Color Scheme
 
-Dark theme with sane coloring. Goes great with [Soda Dark](http://buymeasoda.github.io/soda-theme/) theme.
+Dark theme with sane coloring. Goes great with [Soda Dark](http://buymeasoda.github.io/soda-theme/) or [Spacefunk](https://github.com/Twiebie/ST-Spacefunk) theme.
 
 
 ### Previews:

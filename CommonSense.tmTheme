@@ -4,7 +4,7 @@
 <plist version="1.0">
 	<dict>
 		<key>name</key>
-		<string>qentaur</string>
+		<string>CommonSense</string>
 		<key>settings</key>
 		<array>
 			<dict>
@@ -1472,6 +1472,6 @@
 		<key>author</key>
 		<string>Pentago</string>
 		<key>comment</key>
-		<string>Dark theme with sane coloring.</string>
+		<string>Dark theme with sane coloring. Derived from Pastel Paws (http://git.io/nNuO6Q)</string>
 	</dict>
 </plist>
